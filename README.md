@@ -25,3 +25,5 @@ Data is now tidy meaning:
 - only one variable per column
 - only one observation per row
 - column names are clear to understand (assuming you are familiar with the study/subject matter :) )
+
+Original data available here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
