@@ -1,6 +1,11 @@
 # GettingAndSharingDataCourseProject
 Coursera - Data Science Specialization - Course 3 - Getting and Cleaning Data - Course Project
 
+Repository contains the following:
+- run_analysis.r
+- CodeBook.md
+- Readme.md
+
 ##Note: for script to run correctly the folder 'UCI HAR Dataset' must be in your R working directory
 ##Required packages: 'tidyverse'
 
